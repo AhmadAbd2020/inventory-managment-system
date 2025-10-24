@@ -1,0 +1,2 @@
+/Users/ahmad/development/inventory_management/android/app/.cxx/Debug/n5t204oj/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/ahmad/development/inventory_management/android/app/.cxx/Debug/n5t204oj/armeabi-v7a/CMakeFiles/rebuild_cache.dir

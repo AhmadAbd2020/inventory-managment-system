@@ -1,0 +1,2 @@
+/Users/ahmad/development/new_kenz_app 2/android/app/.cxx/Debug/5oi6tr1l/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/ahmad/development/new_kenz_app 2/android/app/.cxx/Debug/5oi6tr1l/armeabi-v7a/CMakeFiles/rebuild_cache.dir

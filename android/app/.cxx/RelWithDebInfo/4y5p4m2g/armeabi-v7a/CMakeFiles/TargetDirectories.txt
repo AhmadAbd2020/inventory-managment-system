@@ -1,0 +1,2 @@
+/Users/ahmad/development/inventory_management/android/app/.cxx/RelWithDebInfo/4y5p4m2g/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/ahmad/development/inventory_management/android/app/.cxx/RelWithDebInfo/4y5p4m2g/armeabi-v7a/CMakeFiles/rebuild_cache.dir

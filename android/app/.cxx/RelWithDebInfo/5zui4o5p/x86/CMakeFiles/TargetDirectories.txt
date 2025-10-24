@@ -1,0 +1,2 @@
+D:/kenz_app_new/android/app/.cxx/RelWithDebInfo/5zui4o5p/x86/CMakeFiles/edit_cache.dir
+D:/kenz_app_new/android/app/.cxx/RelWithDebInfo/5zui4o5p/x86/CMakeFiles/rebuild_cache.dir

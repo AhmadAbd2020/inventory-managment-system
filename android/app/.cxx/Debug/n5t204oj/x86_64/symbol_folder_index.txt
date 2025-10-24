@@ -1,0 +1,1 @@
+/Users/ahmad/development/inventory_management/build/app/intermediates/cxx/Debug/n5t204oj/obj/x86_64

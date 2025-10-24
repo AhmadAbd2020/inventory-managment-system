@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "311712983590",
+    "project_id": "burkaan-inventory-management",
+    "storage_bucket": "burkaan-inventory-management.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311712983590:android:a1d67e904ea6ef2f6a14e7",
+        "android_client_info": {
+          "package_name": "com.example.inventory_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJtkQI4iQjwVjOeegn-GgApiS7EJD1h20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311712983590:android:2a151ab6efc78ec36a14e7",
+        "android_client_info": {
+          "package_name": "com.example.kenz_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJtkQI4iQjwVjOeegn-GgApiS7EJD1h20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
